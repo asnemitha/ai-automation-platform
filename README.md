@@ -1,16 +1,137 @@
-# React + Vite
+# 🚀 NeuroFlow AI – AI-Powered Data Automation Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NeuroFlow AI is a modern AI-powered SaaS landing page built using **React + Vite**.  
+It simulates an intelligent data automation platform that helps businesses automate workflows, analyze data, and gain real-time insights.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+    https://stunning-gumdrop-d55892.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 GitHub Repository
+
+https://github.com/asnemitha/ai-automation-platform
+
+---
+
+## ✨ Features
+
+- ⚡ Modern AI SaaS Landing Page
+- 📊 Interactive Dashboard UI (Glassmorphism design)
+- 💰 Pricing section with Monthly/Yearly toggle
+- 🌍 Multi-currency pricing system (USD / INR / EUR)
+- ⭐ Testimonials section
+- ❓ FAQ accordion
+- 📱 Fully responsive design (mobile + desktop)
+- 🎨 Smooth animations and modern UI
+- 🔍 SEO optimized structure
+- ♿ Accessibility improvements
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- AOS (Animate on Scroll)
+
+---
+
+## 📁 Project Structure
+
+```
+ai-automation-platform/
+│
+├── public/
+│   ├── favicon.svg
+│   ├── robots.txt
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   ├── styles/
+│   ├── App.jsx
+│   ├── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/asnemitha/ai-automation-platform.git
+```
+
+Go to project folder:
+
+```bash
+cd ai-automation-platform
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+---
+
+## 📊 Performance (Lighthouse Scores)
+
+- 🚀 Performance: 98
+- ♿ Accessibility: 97
+- ✅ Best Practices: 96
+- 🔍 SEO: 100
+
+---
+
+## 📌 Notes
+
+- Built as part of a frontend/hackathon project
+- Focus on UI/UX, responsiveness, and modern SaaS design
+- Deployment can be done using Netlify or Vercel
+
+---
+
+## 👨‍💻 Author
+
+**A. S. Nemitha**
+
+---
+
+## 📄 License
+
+This project is for educational and portfolio purposes.
